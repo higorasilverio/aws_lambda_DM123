@@ -1,0 +1,2 @@
+br/com/siecola/aws_lambda01/ScheduledJob.java
+ br.com.siecola.aws_lambda01.ScheduledJob

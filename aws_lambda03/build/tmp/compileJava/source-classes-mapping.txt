@@ -1,0 +1,4 @@
+br/com/siecola/aws_lambda03/Invoice.java
+ br.com.siecola.aws_lambda03.Invoice
+br/com/siecola/aws_lambda03/S3EventJob.java
+ br.com.siecola.aws_lambda03.S3EventJob

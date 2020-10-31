@@ -1,0 +1,2 @@
+br/com/siecola/aws_lambda02/SnsEventJob.java
+ br.com.siecola.aws_lambda02.SnsEventJob
